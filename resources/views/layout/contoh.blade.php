@@ -19,7 +19,7 @@
 
     <div class="container mt-5">
         <!-- kanggo nama session e -->
-        @yield('test')
+        @yield('container')
     </div>
 
 <link rel="stylesheet" href="">
